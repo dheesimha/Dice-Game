@@ -1,2 +1,2 @@
 # Dice-Game
-Simple Gams designed using HTML , CSS , JavaScript .
+Simple Game designed using HTML , CSS , JavaScript .
